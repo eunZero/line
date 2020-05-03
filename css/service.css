@@ -1,0 +1,9 @@
+@charset 'utg-8';
+
+.service{margin:120px 0 120px;}
+.service li{width:280px;margin-right:60px;}
+.service li:nth-child(3){margin-right: 0;}
+.service li h3{margin-bottom:10px;font-size:14px;font-weight:500;}
+.service li h3.timeline::after{content:'';display: inline-block;margin:-1px 0 0 5px;width:14px;height:14px;background:url('../images/iconset.png') -674px 0;background-size: 1101px;}
+.service li p{margin-bottom:30px;font-size:13px;font-weight:300;line-height:1.6;}
+.service li img{margin-bottom:15px;}

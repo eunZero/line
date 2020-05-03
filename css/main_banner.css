@@ -1,0 +1,15 @@
+@charset 'utf-8';
+
+.main_banner{width:100%;margin-top:70px;margin-bottom:88px;}
+div[class*=banner]{height:440px;text-indent:-30000px;background-position:center;}
+.banner01{background-image: url('../images/main_banner01.png');}
+.banner02{background-image: url('../images/main_banner02.png');}
+.banner03{background-image: url('../images/main_banner03.png');}
+.banner04{background-image: url('../images/main_banner04.png');}
+.bx-wrapper{box-shadow:none;border:none;background:none;}
+.bx-wrapper .bx-pager{bottom:17px;}
+.bx-wrapper .bx-pager-item{margin-left:10px;}
+.bx-wrapper .bx-pager.bx-default-pager a{width:11px;height:11px;border-radius:50%;background:rgba(255, 255, 255, 0.24);}
+.bx-wrapper .bx-pager.bx-default-pager a:hover{background:rgba(255, 255, 255, 0.24);}
+.bx-wrapper .bx-pager.bx-default-pager a.active{background: white;}
+.bx-wrapper .bx-pager.bx-default-pager a:focus{background: white;}
